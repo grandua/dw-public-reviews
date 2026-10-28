@@ -6,7 +6,7 @@ Each PR in this repository mirrors a pull request from a public open-source repo
 
 ## What the Reviewer checks
 
-Not correctness — **design**. On every PR it flags:
+Unlike other AI review tools it is **focused more on architecture, design, maintanability and test coverage than on correctness alone**. On every PR it flags:
 
 - architecture violations (layer dependencies, Anemic Domain Model)
 - code smells and duplication
